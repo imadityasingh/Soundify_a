@@ -1,0 +1,7 @@
+com.example.soundify.test.app-jetified-core-1.5.0-0 C:\Users\ATHARVA\.gradle\caches\transforms-3\c7b925a9293e6a90617099f22f629590\transformed\jetified-core-1.5.0\res
+com.example.soundify.test.app-jetified-annotation-experimental-1.3.0-1 C:\Users\ATHARVA\.gradle\caches\transforms-3\fe266adac092733265e15dfe91d6f5d3\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.soundify.test.app-androidTest-2 D:\app dev\Soundify\Soundify_a\app\build\generated\res\resValues\androidTest\debug
+com.example.soundify.test.app-androidTest-3 D:\app dev\Soundify\Soundify_a\app\build\generated\res\rs\androidTest\debug
+com.example.soundify.test.app-mergeDebugAndroidTestResources-4 D:\app dev\Soundify\Soundify_a\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.soundify.test.app-mergeDebugAndroidTestResources-5 D:\app dev\Soundify\Soundify_a\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.soundify.test.app-merged_res-6 D:\app dev\Soundify\Soundify_a\app\build\intermediates\merged_res\debugAndroidTest
